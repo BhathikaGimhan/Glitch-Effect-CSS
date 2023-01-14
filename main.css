@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgb(0, 0, 0));
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
 }
 
 .glitch {
